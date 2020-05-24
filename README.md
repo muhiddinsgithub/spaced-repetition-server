@@ -2,26 +2,14 @@
 
 This is an amazing user- and mobile-friendly app for new language learners. It interactively engages a user to play with new words and efficiently helps memorize them very fast. It also tracks user answers feedback(correct counts, incorrect counts, total scores).
 
-[Client repo](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg)
+[Client repo](https://github.com/muhiddinsgithub/spaced-repetition-client)
 
-[Server repo](https://github.com/thinkful-ei-macaw/spaced-repetition-server-mpg)
+[Server repo](https://github.com/muhiddinsgithub/spaced-repetition-server)
 
 [Live](https://duolang.org/)
 
-# Screenshots
 
-![Screenshot1](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot1.png)
-![Screenshot2](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot2.png)
-![Screenshot3](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot3.png)
-![Screenshot4](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot4.png)
-![Screenshot5](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot5.png)
-![Screenshot6](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot6.png)
-![Screenshot7](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot7.png)
-![Screenshot8](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot8.png)
-![Screenshot9](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot9.png)
-![Screenshot10](https://github.com/thinkful-ei-macaw/spaced-repetition-client-mpg/blob/master/screenshot10.png)
-
-Designed by Glen & [Muhiddin](https://github.com/muhiddinsgithub) & Patrick
+Designed by [Glen](https://github.com/Nekotree) & [Muhiddin](https://github.com/muhiddinsgithub) & [Patrick](https://github.com/7eyedhero)
 
 
 ### Stack
@@ -39,7 +27,7 @@ PostgreSQL
 Cypress, Mocha
 
 #### Hosting
-Client: now(zeit/vercel), godaddy.com(domain)
+Client: now(zeit/vercel), godaddy.com(domain)  
 Server/Database: heroku
 
 
